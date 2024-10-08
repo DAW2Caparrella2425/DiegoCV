@@ -11,8 +11,8 @@
 
 nav {
     border-bottom: 1px solid #000;
-    padding-bottom: 4px;
-    font-size: large;
+    padding-bottom: 6px;
+    font-size: 18px;
 }
 
 nav a {
@@ -22,7 +22,13 @@ nav a {
 }
 
 nav a:hover {
-    color: #006aff;
+    color: #00c3ff;
+    text-shadow: 2px 2px 5px rgb(206, 206, 206);
+    transition: 0.2s;
+}
+
+.disabled:hover {
+    color: #000;
 }
 
 
