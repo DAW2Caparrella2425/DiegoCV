@@ -72,6 +72,17 @@ nav a:hover {
 }
 
 .item h3 {
-
     color: #c7c7c7;
+}
+
+.item2 {
+    display: inline-block;
+    text-align: center;
+    margin: 15px;
+    background-color: #edf1fc;
+    border-left: 10px solid #303846;
+    border-top: 2px solid #303846;
+    padding: 10px;
+    color: #303846;
+    border-radius: 10px;
 }
