@@ -56,3 +56,22 @@ nav a:hover {
 .disabled:hover {
     color: #ffffff;
 }
+
+.cont {
+    text-align: center;
+}
+
+.item {
+    display: inline-block;
+    text-align: center;
+    margin: 15px;
+    background-color: #303846;
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.item h3 {
+
+    color: #c7c7c7;
+}

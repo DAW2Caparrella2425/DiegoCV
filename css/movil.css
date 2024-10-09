@@ -1,0 +1,48 @@
+
+
+@media screen and (max-width: 412px), (max-height: 915px) {
+    .main_img {
+        width: 100%;
+        margin: 0;
+        float: none;
+    }
+
+    .header {
+        padding: 20px;
+    }
+
+    .header h1 {
+        font-size: 22px; 
+    }
+
+    .header h2 {
+        font-size: 16px;
+    }
+
+    nav {
+        font-size: 16px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px 0; 
+        padding: 10px;
+        font-size: 18px; 
+    }
+
+   
+    .header, nav {
+        padding: 20px;
+    }
+
+   
+    body {
+        margin: 5px;
+    }
+
+    
+    .main_img, .header h1, nav a {
+        width: 100%;
+        text-align: center;
+    }
+}
